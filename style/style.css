@@ -1,0 +1,170 @@
+
+
+.open-sans-normal {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.header-div{
+    display: flex;
+    justify-content: space-between;
+    background-color: #C6E4D6;
+    padding:50px;
+    justify-items: center;
+    border-radius: 24px;
+    min-height: 60vh;
+    align-items: center;
+    margin-top: 40px;
+    
+
+}
+.header-img{
+    width: 40%;
+
+}
+.header-img img{
+    
+    margin: auto;
+
+}
+.rahim h1{
+    font-size: 50px;
+
+
+
+}
+.fira-sane{
+    max-width: 1200px;
+    margin: auto;
+
+}
+.bouten{
+    background-color: #006A50;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+.text-div{
+   display: flex;
+   gap: 10px;
+   justify-content: space-between;
+
+}
+.text-flex{
+    width: 30%;
+    border-radius: 15px;
+    padding: 20px;
+}
+.div-1{
+    background-color: #548ff522;
+
+}
+
+.div-2{
+
+    background-color: #09a15d33;
+}
+
+.div-3{
+background-color: #f7ebcf;
+}
+.news{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    
+}
+.newsimg{
+    width: 25%;
+    border-radius: 10px;
+}
+.news-revers{
+    flex-direction: row-reverse;
+}
+.news-div{
+    background-color:#f8f8f8cb;
+    padding: 30px;
+}
+/* .mondol{
+    background-color: aqua;
+    padding: 15px;
+    border-radius: 10px;
+} */
+
+
+/* button */
+
+.bt-1{
+    background-color: #5490F5;
+    border-radius: 5px;
+    padding: 10px;
+}
+.bt-2{
+    background-color: #09A15C;
+    border-radius: 5px;
+    padding: 10px;
+}
+.bt-3{
+    background-color: #FFC239;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+
+.button{
+    background-color: #006a50ec;
+    width: 139px;
+    height: 48px;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+
+
+.taka{
+    
+    text-align: center;
+    gap: 100px;
+    justify-content: space-between;
+    justify-items: center;
+   margin: 0;
+  
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    
+    
+}
+.taka-1{
+    display: flex;
+    gap: 20px;
+    
+    text-align: center;
+    
+}
+.taka-2{
+   width: 120px;
+   height: 12px;
+    justify-content: center; 
+    justify-content: space-between;
+    display: flex;
+    padding: 40px; 
+    border-radius: 10px;
+    background-color: #ffffff;
+    text-align: center;
+    font-size: 25px;
+    
+    
+}
+.new{
+    background-color: #c0e7d5;
+}
