@@ -168,3 +168,34 @@ background-color: #f7ebcf;
 .new{
     background-color: #c0e7d5;
 }
+.new-1{
+   
+    align-items: center;
+    text-align: center;
+    
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    
+}
+.input-1 {
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    display: block;
+    margin-bottom: 20px;
+    background-color: white;
+    
+
+}
+.btm-1{
+    background-color: #006A50;
+    border-radius: 5px;
+    margin: auto; 
+    width: 10%;
+    padding: 20px;
+
+}
+
